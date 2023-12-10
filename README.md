@@ -1,11 +1,15 @@
 #### How to Run
 
-- For Front End
-  - Open app folder in Andriod Studio
+###### Run Back-End Server first before the Android Application
+
 - For Back End 
   - cd command to the "backend" folder
   - run "npm install"
   - run npm start
+
+- For Android Application 
+  - Open app folder in Andriod Studio
+  - Click "Sync Project with Gradle Files" Button
 
 ###### Note App will not work properly without the backend server running
 
